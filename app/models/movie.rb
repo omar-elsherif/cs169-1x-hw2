@@ -1,3 +1,5 @@
+#Finished hw2
+
 class Movie < ActiveRecord::Base
 
   def self.ratings
