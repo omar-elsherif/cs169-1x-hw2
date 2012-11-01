@@ -65,7 +65,7 @@ end
         redirect = true
       end
     else
-      session[:sort] = @sort
+      
     end
     
     if redirect
